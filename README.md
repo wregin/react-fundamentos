@@ -1,6 +1,6 @@
 # Fundamentos React
 
-Projeto básico utilizando os princípios do React JS.
+Projeto fundamentos do REACT JS com layout flexbox.
 
 ## Home app 
 
