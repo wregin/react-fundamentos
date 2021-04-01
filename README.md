@@ -2,7 +2,7 @@
 
 Projeto básico utilizando os princípios do React JS.
 
-## Main 
+## Home app 
 
 ![](https://github.com/wregin/react-fundamentos/blob/main/shots/home.png?raw=true)
 
